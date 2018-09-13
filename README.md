@@ -13,6 +13,6 @@ Simple Tool for Mac/Windows that auto-types your login details for Cydia Impacto
 --> Call the Script by Impact in cmd ( Files are in /Users/%username% ) 
 
 # Note
---> If you change your details, you can edit the text file on Mac, and the .vbs File on Windows
---> Always run the script from your Home/Normal Directory ( /Users/%username% ) 
+--> If you change your details, you can edit the text file on Mac, and the .vbs File on Windows\
+--> Always run the script from your Home/Normal Directory ( /Users/%username% )\
 --> If you encounter any error, Contact me On Discord - TheArmKing#6647
